@@ -4,37 +4,37 @@ let Products = [
   {
     id: 1,
     name: "Weshi Burger",
-    photo: "/Images/image (1).webp",
+    photo: "/image/burger 10.webp",
     price: 750
   },
   {
     id: 2,
     name: "Zinger Burger",
-    photo: "/images/burger 11.webp",
+    photo: "/image/burger 11.webp",
     price: 550,
   },
   {
     id: 3,
     name: "Crispy Burger",
-    photo: "/images/burger 11.webp",
+    photo: "/image/burger4.png",
     price: 650,
   },
   {
     id: 4,
     name: "Beef Burger",
-    photo: "/images/burger4.png",
+    photo: "/image/burger7.png",
     price: 950,
   },
   {
     id: 5,
     name: "Double cheese",
-    photo: "/images/burger7.png",
+    photo: "/image/burger8.jpg",
     price: 850,
   },
   {
     id: 6,
     name: "Hamburger Burger",
-    photo: "/images/burger8.jpg",
+    photo: "/image/burger 10.webp",
     price: 1150,
   },
   {

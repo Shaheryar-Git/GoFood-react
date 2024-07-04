@@ -36,7 +36,7 @@ const Navbar = () => {
       <div className="container-fluid">
         <Link className="navbar-brand" to="/" style={{height:"70px"}}>
           <em className="fw-bold">
-            <img height={80} src="/images/Gofood-logo.png" alt="Gofood Logo"></img>
+            <img height={80} src="/Images/Gofood-logo.png" alt="Gofood Logo"></img>
           </em>
         </Link>
         <button
