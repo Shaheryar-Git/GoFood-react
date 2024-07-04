@@ -1,0 +1,142 @@
+/* Add this CSS to your existing stylesheet */
+
+
+
+.img2:hover {
+    transition: transform 0.2s;
+    cursor: pointer;
+    transform: scale(1.1);
+    
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-text {
+    color: #333;
+  }
+  
+  .fs-3 {
+    color: #333;
+  }
+  
+  .container-select {
+    margin-top: 10px;
+  }
+  
+  /* .btn1 {
+    background-color: #28a745;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  } */
+  
+  .btn1:hover {
+    background-color: #218838;
+  }
+
+
+  /* Add this CSS to your existing stylesheet */
+
+.img2:hover {
+    transition: transform 0.2s;
+    cursor: pointer;
+    transform: scale(1.1);
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(192, 27, 27, 0.1);
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-text {
+    color: #333;
+  }
+  
+  .fs-3 {
+    color: #333;
+  }
+  
+  .container-select {
+    margin-top: 10px;
+  }
+  
+  .btn2 {
+    background-color: #28a745;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .btn2:hover {
+    background-color: #218838;
+  }
+  
+  /* Add this CSS to your existing stylesheet */
+
+.img3:hover {
+    transition: transform 0.2s;
+    cursor: pointer;
+    transform: scale(1.1);
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-text {
+    color: #333;
+  }
+  
+  .fs-3 {
+    color: #333;
+  }
+  
+  .container-select {
+    margin-top: 10px;
+  }
+  
+  .btn3 {
+    background-color: #28a745;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .btn3:hover {
+    background-color: #218838;
+  }
+
