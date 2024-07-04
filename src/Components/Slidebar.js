@@ -19,7 +19,6 @@ const Slidebar = () => {
   <div className="carousel-inner">
     <div className="carousel-item active">
       <img src="https://source.unsplash.com/random/300×100/?pasta" className="d-block w-100" height={600}   style={{filter:'brightness(70%'}}  />
-      {/* <video src='/Images/production_id_3944332 (2160p).mp4' height={420} width={1500}></video> */}
     </div>
     <div className="carousel-item">
       <img src="https://source.unsplash.com/random/300×100/?pizza" className="d-block w-100" height={600}  style={{filter:'brightness(70%'}} />

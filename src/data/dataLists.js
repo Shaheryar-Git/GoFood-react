@@ -4,7 +4,7 @@ let Products = [
   {
     id: 1,
     name: "Weshi Burger",
-    photo: "/images/burger 10.webp",
+    photo: "/Images/image (1).webp",
     price: 750
   },
   {
