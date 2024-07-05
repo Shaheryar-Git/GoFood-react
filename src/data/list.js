@@ -72,12 +72,7 @@ let Lists = [
     photo: "/Images/1703677882.webp",
     price:  1550,
   },
-  {
-    id: 43,
-    name: "Penne pasta",
-    photo: "/Images/Lemon-Ricotta-Pasta-Pasta-al-Limone-500x500.jpg",
-    price: 750,
-  },
+ 
   {
     id: 44,
     name: "Ravioli pasta",
